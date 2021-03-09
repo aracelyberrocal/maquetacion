@@ -1,0 +1,40 @@
+.circle {
+  width: 80%;
+  height: 100%;
+}
+.circle-1 {
+  background-color: black;
+}
+.circle-2 {
+  background-color: #6bc96f;
+}
+.circle-3 {
+  background-color: #da3535;
+}
+.circle-4 {
+  background-color: #46b5af;
+}
+.circle-5 {
+  background-color: #5f39cb;
+}
+.circle-6 {
+  background-color: #eb0cd5;
+}
+.parr-1 {
+  color: black;
+}
+.parr-2 {
+  color: #6bc96f;
+}
+.parr-3 {
+  color: #da3535;
+}
+.parr-4 {
+  color: #46b5af;
+}
+.parr-5 {
+  color: #5f39cb;
+}
+.parr-6 {
+  color: #eb0cd5;
+}
